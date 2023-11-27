@@ -1,3 +1,6 @@
+# gerrit_path
+
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="origin"
@@ -9,3 +12,4 @@
     <project name="a" path="a" />
 
 </manifest>
+```
